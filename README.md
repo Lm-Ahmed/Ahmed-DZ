@@ -1,4 +1,4 @@
-# Ahmed-DZ
+# Ahmed Abdesselem Limam
 # 👋 Hi, I'm Ahmed
 
 I'm a Computer Science student passionate about programming, artificial intelligence, and 3D design with Blender.  
